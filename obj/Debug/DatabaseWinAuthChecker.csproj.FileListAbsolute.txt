@@ -1,0 +1,7 @@
+C:\Users\joosueong.sum\Source\Repos\DatabaseWinAuthChecker\bin\Debug\DatabaseWinAuthChecker.exe.config
+C:\Users\joosueong.sum\Source\Repos\DatabaseWinAuthChecker\bin\Debug\DatabaseWinAuthChecker.exe
+C:\Users\joosueong.sum\Source\Repos\DatabaseWinAuthChecker\bin\Debug\DatabaseWinAuthChecker.pdb
+C:\Users\joosueong.sum\Source\Repos\DatabaseWinAuthChecker\obj\Debug\DatabaseWinAuthChecker.csprojAssemblyReference.cache
+C:\Users\joosueong.sum\Source\Repos\DatabaseWinAuthChecker\obj\Debug\DatabaseWinAuthChecker.csproj.CoreCompileInputs.cache
+C:\Users\joosueong.sum\Source\Repos\DatabaseWinAuthChecker\obj\Debug\DatabaseWinAuthChecker.exe
+C:\Users\joosueong.sum\Source\Repos\DatabaseWinAuthChecker\obj\Debug\DatabaseWinAuthChecker.pdb
